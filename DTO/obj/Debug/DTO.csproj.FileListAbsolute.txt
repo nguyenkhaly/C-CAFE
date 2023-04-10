@@ -1,0 +1,12 @@
+D:\QLBH\FOOD\DTO\bin\Debug\DTO.dll
+D:\QLBH\FOOD\DTO\bin\Debug\DTO.pdb
+D:\QLBH\FOOD\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QLBH\FOOD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLBH\FOOD\DTO\obj\Debug\DTO.dll
+D:\QLBH\FOOD\DTO\obj\Debug\DTO.pdb
+D:\Do an chuyen ngah\FOOD\DTO\bin\Debug\DTO.dll
+D:\Do an chuyen ngah\FOOD\DTO\bin\Debug\DTO.pdb
+D:\Do an chuyen ngah\FOOD\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Do an chuyen ngah\FOOD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Do an chuyen ngah\FOOD\DTO\obj\Debug\DTO.dll
+D:\Do an chuyen ngah\FOOD\DTO\obj\Debug\DTO.pdb

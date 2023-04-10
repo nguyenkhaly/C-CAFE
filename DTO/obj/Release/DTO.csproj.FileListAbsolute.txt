@@ -1,0 +1,6 @@
+D:\Do an chuyen ngah\FOOD\DTO\bin\Release\DTO.dll
+D:\Do an chuyen ngah\FOOD\DTO\bin\Release\DTO.pdb
+D:\Do an chuyen ngah\FOOD\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+D:\Do an chuyen ngah\FOOD\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\Do an chuyen ngah\FOOD\DTO\obj\Release\DTO.dll
+D:\Do an chuyen ngah\FOOD\DTO\obj\Release\DTO.pdb
