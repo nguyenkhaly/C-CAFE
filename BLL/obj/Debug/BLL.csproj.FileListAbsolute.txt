@@ -1,0 +1,24 @@
+D:\QLBH\FOOD\BLL\bin\Debug\BLL.dll
+D:\QLBH\FOOD\BLL\bin\Debug\BLL.pdb
+D:\QLBH\FOOD\BLL\bin\Debug\DAL.dll
+D:\QLBH\FOOD\BLL\bin\Debug\DTO.dll
+D:\QLBH\FOOD\BLL\bin\Debug\DAL.pdb
+D:\QLBH\FOOD\BLL\bin\Debug\DAL.dll.config
+D:\QLBH\FOOD\BLL\bin\Debug\DTO.pdb
+D:\QLBH\FOOD\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\QLBH\FOOD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\QLBH\FOOD\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\QLBH\FOOD\BLL\obj\Debug\BLL.dll
+D:\QLBH\FOOD\BLL\obj\Debug\BLL.pdb
+D:\QLBH\FOOD\BLL\bin\Debug\BLL.dll.config
+D:\Do an chuyen ngah\FOOD\BLL\bin\Debug\BLL.dll
+D:\Do an chuyen ngah\FOOD\BLL\bin\Debug\BLL.pdb
+D:\Do an chuyen ngah\FOOD\BLL\bin\Debug\DAL.dll
+D:\Do an chuyen ngah\FOOD\BLL\bin\Debug\DTO.dll
+D:\Do an chuyen ngah\FOOD\BLL\bin\Debug\DAL.pdb
+D:\Do an chuyen ngah\FOOD\BLL\bin\Debug\DTO.pdb
+D:\Do an chuyen ngah\FOOD\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Do an chuyen ngah\FOOD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Do an chuyen ngah\FOOD\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Do an chuyen ngah\FOOD\BLL\obj\Debug\BLL.dll
+D:\Do an chuyen ngah\FOOD\BLL\obj\Debug\BLL.pdb
