@@ -1,0 +1,79 @@
+D:\QLBH\FOOD\DAL\bin\Debug\DAL.dll.config
+D:\QLBH\FOOD\DAL\bin\Debug\DAL.dll
+D:\QLBH\FOOD\DAL\bin\Debug\DAL.pdb
+D:\QLBH\FOOD\DAL\bin\Debug\DTO.dll
+D:\QLBH\FOOD\DAL\bin\Debug\EntityFramework.dll
+D:\QLBH\FOOD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\QLBH\FOOD\DAL\bin\Debug\DTO.pdb
+D:\QLBH\FOOD\DAL\bin\Debug\EntityFramework.xml
+D:\QLBH\FOOD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\QLBH\FOOD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QLBH\FOOD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLBH\FOOD\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QLBH\FOOD\DAL\obj\Debug\DAL.dll
+D:\QLBH\FOOD\DAL\obj\Debug\DAL.pdb
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\QLBH\FOOD\DAL\bin\Debug\System.Buffers.dll
+D:\QLBH\FOOD\DAL\bin\Debug\System.Memory.dll
+D:\QLBH\FOOD\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\QLBH\FOOD\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QLBH\FOOD\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\QLBH\FOOD\DAL\bin\Debug\System.Text.Json.dll
+D:\QLBH\FOOD\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QLBH\FOOD\DAL\bin\Debug\System.ValueTuple.dll
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\QLBH\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\QLBH\FOOD\DAL\bin\Debug\System.Buffers.xml
+D:\QLBH\FOOD\DAL\bin\Debug\System.Memory.xml
+D:\QLBH\FOOD\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\QLBH\FOOD\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QLBH\FOOD\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\QLBH\FOOD\DAL\bin\Debug\System.Text.Json.xml
+D:\QLBH\FOOD\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QLBH\FOOD\DAL\bin\Debug\System.ValueTuple.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\DAL.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\DAL.pdb
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\DTO.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\EntityFramework.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Buffers.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Memory.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Text.Json.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.ValueTuple.dll
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\DTO.pdb
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\EntityFramework.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Buffers.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Memory.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Text.Json.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Do an chuyen ngah\FOOD\DAL\bin\Debug\System.ValueTuple.xml
+D:\Do an chuyen ngah\FOOD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Do an chuyen ngah\FOOD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Do an chuyen ngah\FOOD\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Do an chuyen ngah\FOOD\DAL\obj\Debug\DAL.dll
+D:\Do an chuyen ngah\FOOD\DAL\obj\Debug\DAL.pdb
